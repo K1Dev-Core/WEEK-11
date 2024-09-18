@@ -20,7 +20,7 @@ WEEK#11 Algorithm Loop+IF  แบบ dummy
 2. ![Flowchart.png](./Flowchart.png)  
    **Flowchart.png** - ภาพผังงาน (Flowchart) ของโค้ดในสัปดาห์ที่ 11
 3. ![Pseudocode.png](./Pseudocode.png)  
-   **Pseudocode.png** - ภาพแสดงรหัสเทียม
+   **Pseudocode.png** - ภาพแสดงรหัสเทียม 
 5. ![Trace_Table.png](./Trace_Table.png)  
    **Trace_Table.png** - ภาพแสดงตารางลำดับการทำงานของโปรแกรม
 
@@ -28,6 +28,6 @@ WEEK#11 Algorithm Loop+IF  แบบ dummy
 
 1. เพื่อดูลำดับการทำงานของโปรแกรม สามารถดูได้จากไฟล์ **Flowchart.png**
 2. ไฟล์ **Pseudocode.txt** และ **Pseudocode.png** จะแสดงรหัสเทียม (Pseudocode) ที่อธิบายการทำงานของโปรแกรม
-3. ไฟล์ **week_10.cpp** เป็นซอร์สโค้ด C++ ที่คุณสามารถนำไปคอมไพล์และรันเพื่อดูผลลัพธ์
+3. ไฟล์ **week_11.cpp** เป็นซอร์สโค้ด C++ ที่คุณสามารถนำไปคอมไพล์และรันเพื่อดูผลลัพธ์
 4. ไฟล์ **Trace_Table.png** แสดงตารางการเปลี่ยนแปลงของตัวแปรทีละขั้นตอนในโปรแกรม
 5. สำหรับรายละเอียดเพิ่มเติมและสรุปงาน สามารถดูได้จากไฟล์ **WEEK_10.pdf**
