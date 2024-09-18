@@ -1,0 +1,23 @@
+START
+    SizeS = 0, SizeM = 0, SizeL = 0
+    TotalPrice  = 0.0
+    read Weight
+
+    while (Weight > 0 && Weight <= 100)
+        if (Weight >= 45)
+            SizeL = SizeL + 1
+            print "SizeL"
+        else if (Weight >= 30)
+            SizeM = SizeM + 1
+            print "SizeM"
+        else
+            SizeS = SizeS + 1
+            print "SizeS"
+        end
+
+        read Weight
+    end
+
+    TotalPrice = SizeS * 3.25 + SizeM * 4 + SizeL * 4.50
+    print TotalPrice , SizeS , SizeM , SizeL
+END
